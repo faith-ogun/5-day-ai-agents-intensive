@@ -1,6 +1,3 @@
-Here’s a clean, professional `README.md` suitable for the **5-Day AI Agents Intensive Course with Google** repo — academic in tone, no fluff, fully compatible with your folder structure:
-
-```markdown
 # 5-Day AI Agents Intensive (Google × Kaggle)
 
 This repository contains materials, notes, and exercises for the **5-Day AI Agents Intensive Course with Google**, hosted on Kaggle.  
