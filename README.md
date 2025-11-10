@@ -27,7 +27,7 @@ Participants completing the **capstone project** earn a Kaggle badge recognising
 
 ```
 
-5Day-AIAgents-Intensive/
+5-day-ai-agents-intensive/
 │
 ├── day1_introduction_to_agents/
 ├── day2_agent_tools_and_mcp/
